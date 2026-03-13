@@ -173,26 +173,35 @@ export const devProjects = [
     title: 'Coin Trend Application',
     description: ' A Web application to track and check the crypto currencies .',
     tech: ['React JS','Tailwind CSS','React Routing','Firebase','Github'],
-    link: 'https://the64garage-adminpanel.vercel.app/login',
+    link: 'https://samarthkulkarni08.github.io/CoinTrend-App/',
     image: '/assets/dev/Cointrend.png',
   },
   {
     title: 'Todo Application',
     description: 'Application for productiviuty - A TODO application',
     tech: ['React JS','CSS','Firebase','Github', 'Crud Functionality'],
-    link: 'https://the64garage-adminpanel.vercel.app/login',
+    link: 'https://samarthkulkarni08.github.io/Todo-App/',
     image: '/assets/dev/TodoApp.png',
   },
   {
     title: 'Weather App',
     description: ' Web Application to check weather of different places using open weather api .',
     tech: ['Cursor Ai','React JS','CSS', 'typescript','Firebase','Cloudinary','Github'],
-    link: 'https://the64garage-adminpanel.vercel.app/login',
+    link: 'https://samarthkulkarni08.github.io/React-Weather-App/',
     image: '/assets/dev/Weatherapp.png',
   }
 ];
 
 export const blogs = [
+  {
+    type: 'Case Study',
+    title: 'ThrottleSync - Group Riding Reinvented',
+    excerpt: 'A self-initiated UX concept that integrates real-time group navigation, hands-free communication, and smart safety alerts into a single companion app for motorcycle tourers.',
+    readTime: '12 min read',
+    date: 'February 2026',
+    link: '/ThrottleSync_CaseStudy_v2.pdf',
+    isPdf: true,
+  },
   {
     type: 'Case Study',
     title: ' Redesigning Bengaluru Metro QR Ticket Experience',
