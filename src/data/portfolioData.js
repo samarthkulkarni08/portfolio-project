@@ -190,7 +190,7 @@ export const devProjects = [
     description: 'Built a Windows desktop app that replaces the wallpaper with a live interactive calendar for managing events, to-dos, and app shortcuts — all from the home screen. Engineered native Windows integration using Electron.js, PowerShell APIs, and OS-level window management for a seamless one-click productivity experience.',
     tech: ['Cursor Ai','React JS','CSS', 'typescript','Electron.js','PowerShell APIs','Github'],
     link: 'https://www.behance.net/gallery/246326909/Interactive-Calendar-Wallpaper',
-    image: '/assets/dev/wallpaperapp.png',
+    image: '/assets/dev/Frame 134.png',
   },
   {
     title: 'Coin Trend Application',
@@ -213,13 +213,6 @@ export const devProjects = [
     link: 'https://samarthkulkarni08.github.io/React-Weather-App/',
     image: '/assets/dev/Weatherapp.png',
   },
-  {
-    title: 'EcoShop eCommerce Demo',
-    description: 'A React-powered eCommerce storefront demo with product filtering, shopping cart, and Stripe checkout integration for a frictionless buying experience.',
-    tech: ['React JS','Tailwind CSS','Firebase','Stripe','Github'],
-    link: 'https://ecoshop-demo.vercel.app/',
-    image: '/assets/dev/ecoshop.png',
-  }
 ];
 
 export const blogs = [
