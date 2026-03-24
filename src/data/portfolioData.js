@@ -90,6 +90,14 @@ export const experience = [
 ];
 
 export const designProjects = [
+    {
+    title: 'Backthere | A Curated Visual Archive & Cloud-Based Memory Suite',
+    type: 'Web Application UI/UX',
+    image: '/assets/design/Album.png',
+    description: 'Backthere is a cloud-based web application designed to solve the chaos of digital photo storage. The goal was to move beyond the standard folder view and create a Pinterest-inspired, masonry grid that prioritizes aesthetic curation. I focused on building a seamless interface where users can easily organize, sync, and revisit their most cherished moments as a curated digital legacy.',
+    tags: ['Figma', 'Web Design', 'User Flows','Problem Solving'],
+    link: 'https://www.behance.net/gallery/246327521/Backthere-A-Curated-Visual-Archive' // Add Behance project link
+  },              
   {
     title: 'Auction App for Art Gallery',
     type: 'Mobile UI/UX',
@@ -144,6 +152,14 @@ export const designProjects = [
     image: '/assets/design/Frame 20.png',
     description: 'Created visually appealing and user-friendly interface for an educational web portal. Enhanced user experience and engagement through responsive design and seamless navigation.',
     tags: ['User Flow', 'Content Development','Canva','Wordpress', 'Accessibility'],
+  },
+  {
+    title: 'Smart Fitness Dashboard',
+    type: 'Web Application UI/UX',
+    image: '/assets/design/smart-fitness-dashboard.png',
+    description: 'Designed a dashboard experience that tracks workouts, nutrition, and progress goals with motivational micro-interactions and analytics cards that help users stay on track.',
+    tags: ['Figma', 'Web Design', 'Data Visualization', 'User Flows'],
+    link: 'https://www.behance.net/gallery/XXXX/Smart-Fitness-Dashboard'
   }
 ];
 
@@ -169,6 +185,13 @@ export const devProjects = [
     link: 'https://the64garage-adminpanel.vercel.app/login',
     image: '/assets/dev/AdminPanel.png',
   },
+    {
+    title: 'Calendar Wallpaper App for Windows',
+    description: 'Built a Windows desktop app that replaces the wallpaper with a live interactive calendar for managing events, to-dos, and app shortcuts — all from the home screen. Engineered native Windows integration using Electron.js, PowerShell APIs, and OS-level window management for a seamless one-click productivity experience.',
+    tech: ['Cursor Ai','React JS','CSS', 'typescript','Electron.js','PowerShell APIs','Github'],
+    link: 'https://www.behance.net/gallery/246326909/Interactive-Calendar-Wallpaper',
+    image: '/assets/dev/wallpaperapp.png',
+  },
   {
     title: 'Coin Trend Application',
     description: ' A Web application to track and check the crypto currencies .',
@@ -189,6 +212,13 @@ export const devProjects = [
     tech: ['Cursor Ai','React JS','CSS', 'typescript','Firebase','Cloudinary','Github'],
     link: 'https://samarthkulkarni08.github.io/React-Weather-App/',
     image: '/assets/dev/Weatherapp.png',
+  },
+  {
+    title: 'EcoShop eCommerce Demo',
+    description: 'A React-powered eCommerce storefront demo with product filtering, shopping cart, and Stripe checkout integration for a frictionless buying experience.',
+    tech: ['React JS','Tailwind CSS','Firebase','Stripe','Github'],
+    link: 'https://ecoshop-demo.vercel.app/',
+    image: '/assets/dev/ecoshop.png',
   }
 ];
 
