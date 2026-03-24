@@ -152,14 +152,6 @@ export const designProjects = [
     image: '/assets/design/Frame 20.png',
     description: 'Created visually appealing and user-friendly interface for an educational web portal. Enhanced user experience and engagement through responsive design and seamless navigation.',
     tags: ['User Flow', 'Content Development','Canva','Wordpress', 'Accessibility'],
-  },
-  {
-    title: 'Smart Fitness Dashboard',
-    type: 'Web Application UI/UX',
-    image: '/assets/design/smart-fitness-dashboard.png',
-    description: 'Designed a dashboard experience that tracks workouts, nutrition, and progress goals with motivational micro-interactions and analytics cards that help users stay on track.',
-    tags: ['Figma', 'Web Design', 'Data Visualization', 'User Flows'],
-    link: 'https://www.behance.net/gallery/XXXX/Smart-Fitness-Dashboard'
   }
 ];
 
