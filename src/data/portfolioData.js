@@ -204,7 +204,7 @@ export const devProjects = [
     tech: ['Cursor Ai','React JS','CSS', 'typescript','Firebase','Cloudinary','Github'],
     link: 'https://samarthkulkarni08.github.io/React-Weather-App/',
     image: '/assets/dev/Weatherapp.png',
-  },
+  }
 ];
 
 export const blogs = [
