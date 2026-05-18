@@ -71,13 +71,13 @@ export const services = [
 export const experience = [
   {
     period: 'July 2025 - Present',
-    role: 'Research & Development Team Lead',
+    role: 'Product Designer & Team Lead',
     company: 'ScienceUtsav Educational Services Pvt. Ltd.',
     description: 'Spearheading a cross-functional team to improve the design, delivery, and user experience of educational kits and STEM-based training programs. Leading initiatives to enhance product usability and educational impact.'
   },
   {
     period: 'July 2023 - June 2025',
-    role: 'Research & Development Associate',
+    role: 'Product Designer',
     company: 'ScienceUtsav Educational Services Pvt. Ltd.',
     description: 'Designed "Roboscientist", an intuitive educational automation kit using Arduino with emphasis on user-friendly interaction. Developed clear, engaging curriculum materials and conducted interactive workshops enabling students to build real-world physical models. Created digital content for social media and promotional platforms.'
   },
