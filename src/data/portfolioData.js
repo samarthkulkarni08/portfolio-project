@@ -230,7 +230,7 @@ export const blogs = [
     excerpt: 'I redesigned the job search experience. The design focuses on a clean, intuitive interface that simplifies job discovery and application processes. Key features include personalized job recommendations, streamlined application tracking, and enhanced user flow for job seekers.',
     readTime: '14 min read',
     date: 'May 2026',
-    link: '/Job4You Design Case Study.pdf',
+    link: '/Job4You Design Case Study1.pdf',
     isPdf: true,
     linkedInUrl: 'https://www.behance.net/gallery/249412343/Product-Design-Case-Study'
   },
