@@ -90,6 +90,22 @@ export const experience = [
 ];
 
 export const designProjects = [
+  {
+    title: 'Job4You | Ai Powered Job Portal Design',
+    type: 'Web Application UI/UX',
+    image: '/assets/design/Sign In Page.png',
+    description: 'I redesigned the job search experience. The design focuses on a clean, intuitive interface that simplifies job discovery and application processes. Key features include personalized job recommendations, streamlined application tracking, and enhanced user flow for job seekers.',
+    tags: ['Figma', 'Web Design', 'User Flows','Problem Solving'],
+    link: 'https://www.figma.com/design/aYa5UQZU4bCInWzLhOpsIB/Ai-Powered-Job-Portal?node-id=0-1&t=FR28Dx6hBGqEiFX7-1' // Add Behance project link
+  },
+  {
+    title: 'Fintrack | A personal finance tracker mobile application design',
+    type: 'Mobile Application UI/UX',
+    image: '/assets/design/Poster Fintrack.png',
+    description: 'A personal finance tracker mobile application design, the designed features simplifies the expenses tracking, prioritizes the expenses management with insights and Tips. And easy user flow.',
+    tags: ['Figma','Google Stitch', 'Mobile App Design', 'User Flows','Problem Solving'],
+    link: 'https://www.behance.net/gallery/249593889/Fintrack-Mobile-Application-Design' // Add Behance project link
+  },
     {
     title: 'Backthere | A Curated Visual Archive & Cloud-Based Memory Suite',
     type: 'Web Application UI/UX',
@@ -208,6 +224,16 @@ export const devProjects = [
 ];
 
 export const blogs = [
+  {
+    type: 'Case Study',
+    title: ' Job4You - Stop searching, Start matching: I redesigned the job search experience',
+    excerpt: 'I redesigned the job search experience. The design focuses on a clean, intuitive interface that simplifies job discovery and application processes. Key features include personalized job recommendations, streamlined application tracking, and enhanced user flow for job seekers.',
+    readTime: '14 min read',
+    date: 'May 2026',
+    link: '/Job4You Design Case Study.pdf',
+    isPdf: true,
+    linkedInUrl: 'https://www.behance.net/gallery/249412343/Product-Design-Case-Study'
+  },
   {
     type: 'Case Study',
     title: 'ThrottleSync - Group Riding Reinvented',
